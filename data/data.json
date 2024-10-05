@@ -1,0 +1,213 @@
+[
+    {
+      "symbol": "BA",
+      "name": "The Boeing Company",
+      "market_cap": "$110.46 B",
+      "sector": "Industrials",
+      "industry": "Aerospace & Defense"
+    },
+    {
+      "symbol": "GS",
+      "name": "The Goldman Sachs Group, Inc.",
+      "market_cap": "$112.71 B",
+      "sector": "Financials",
+      "industry": "Capital Markets"
+    },
+    {
+      "symbol": "IBM",
+      "name": "International Business Machines Corporation",
+      "market_cap": "$119.20 B",
+      "sector": "Technology",
+      "industry": "Information Technology Services"
+    },
+    {
+      "symbol": "CAT",
+      "name": "Caterpillar Inc.",
+      "market_cap": "$124.13 B",
+      "sector": "Industrials",
+      "industry": "Farm & Heavy Construction Machinery"
+    },
+    {
+      "symbol": "HON",
+      "name": "Honeywell International Inc.",
+      "market_cap": "$136.48 B",
+      "sector": "Industrials",
+      "industry": "Specialty Industrial Machinery"
+    },
+    {
+      "symbol": "AMGN",
+      "name": "Amgen Inc.",
+      "market_cap": "$141.72 B",
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers—General"
+    },
+    {
+      "symbol": "AXP",
+      "name": "American Express Company",
+      "market_cap": "$150.76 B",
+      "sector": "Financials",
+      "industry": "Credit Services"
+    },
+    {
+      "symbol": "MCD",
+      "name": "McDonald's Corporation",
+      "market_cap": "$186.57 B",
+      "sector": "Consumer Discretionary",
+      "industry": "Restaurants"
+    },
+    {
+      "symbol": "CRM",
+      "name": "salesforce.com, inc.",
+      "market_cap": "$193.80 B",
+      "sector": "Technology",
+      "industry": "Software—Application"
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft Corporation",
+      "market_cap": "$2.328 T",
+      "sector": "Technology",
+      "industry": "Software—Infrastructure"
+    },
+    {
+      "symbol": "AAPL",
+      "name": "Apple Inc.",
+      "market_cap": "$2.825 T",
+      "sector": "Technology",
+      "industry": "Consumer Electronics"
+    },
+    {
+      "symbol": "INTC",
+      "name": "Intel Corporation",
+      "market_cap": "$201.72 B",
+      "sector": "Technology",
+      "industry": "Semiconductors"
+    },
+    {
+      "symbol": "MRK",
+      "name": "Merck & Co., Inc.",
+      "market_cap": "$210.38 B",
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers—General"
+    },
+    {
+      "symbol": "NKE",
+      "name": "Nike, Inc.",
+      "market_cap": "$213.60 B",
+      "sector": "Consumer Discretionary",
+      "industry": "Footwear & Accessories"
+    },
+    {
+      "symbol": "VZ",
+      "name": "Verizon Communications Inc.",
+      "market_cap": "$216.68 B",
+      "sector": "Communication Services",
+      "industry": "Telecom Services"
+    },
+    {
+      "symbol": "CSCO",
+      "name": "Cisco Systems, Inc.",
+      "market_cap": "$238.45 B",
+      "sector": "Technology",
+      "industry": "Communication Equipment"
+    },
+    {
+      "symbol": "DIS",
+      "name": "The Walt Disney Company",
+      "market_cap": "$247.88 B",
+      "sector": "Communication Services",
+      "industry": "Entertainment"
+    },
+    {
+      "symbol": "KO",
+      "name": "The Coca-Cola Company",
+      "market_cap": "$273.20 B",
+      "sector": "Consumer Staples",
+      "industry": "Beverages—Non-Alcoholic"
+    },
+    {
+      "symbol": "CVX",
+      "name": "Chevron Corporation",
+      "market_cap": "$315.13 B",
+      "sector": "Energy",
+      "industry": "Oil & Gas Integrated"
+    },
+    {
+      "symbol": "HD",
+      "name": "The Home Depot, Inc.",
+      "market_cap": "$321.47 B",
+      "sector": "Consumer Discretionary",
+      "industry": "Home Improvement Retail"
+    },
+    {
+      "symbol": "PG",
+      "name": "The Procter & Gamble Company",
+      "market_cap": "$384.60 B",
+      "sector": "Consumer Staples",
+      "industry": "Household & Personal Products"
+    },
+    {
+      "symbol": "WBA",
+      "name": "Walgreens Boots Alliance, Inc.",
+      "market_cap": "$40.55 B",
+      "sector": "Healthcare",
+      "industry": "Pharmaceutical Retailers"
+    },
+    {
+      "symbol": "JPM",
+      "name": "JPMorgan Chase & Co.",
+      "market_cap": "$410.84 B",
+      "sector": "Financials",
+      "industry": "Banks"
+    },
+    {
+      "symbol": "WMT",
+      "name": "Walmart Inc.",
+      "market_cap": "$429.05 B",
+      "sector": "Consumer Staples",
+      "industry": "Discount Stores"
+    },
+    {
+      "symbol": "TRV",
+      "name": "The Travelers Companies, Inc.",
+      "market_cap": "$45.56 B",
+      "sector": "Financials",
+      "industry": "Insurance—Property & Casualty"
+    },
+    {
+      "symbol": "JNJ",
+      "name": "Johnson & Johnson",
+      "market_cap": "$475.93 B",
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers—General"
+    },
+    {
+      "symbol": "DOW",
+      "name": "Dow Inc.",
+      "market_cap": "$48.50 B",
+      "sector": "Basic Materials",
+      "industry": "Chemicals"
+    },
+    {
+      "symbol": "V",
+      "name": "Visa Inc.",
+      "market_cap": "$486.77 B",
+      "sector": "Financials",
+      "industry": "Credit Services"
+    },
+    {
+      "symbol": "UNH",
+      "name": "UnitedHealth Group Incorporated",
+      "market_cap": "$488.52 B",
+      "sector": "Healthcare",
+      "industry": "Healthcare Plans"
+    },
+    {
+      "symbol": "MMM",
+      "name": "3M Company",
+      "market_cap": "$88.77 B",
+      "sector": "Industrials",
+      "industry": "Specialty Industrial Machinery"
+    }
+  ]
+  
